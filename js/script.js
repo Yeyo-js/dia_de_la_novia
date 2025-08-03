@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 
-    const audio = new Audio('../audio/mi_chica_ideal.mp3');
+    const audio = new Audio('audio/mi_chica_ideal.mp3');
     let isPlaying = false;
 
     function toggleAudio() {
